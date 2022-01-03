@@ -4,3 +4,4 @@ lucky?
 nope...
 sad/
 笑
+ohuohu?
