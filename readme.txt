@@ -3,3 +3,4 @@ nice Try!
 lucky?
 nope...
 sad/
+笑
